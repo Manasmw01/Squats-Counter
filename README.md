@@ -1,5 +1,8 @@
 # Squats-Counter
 
+# [Instructable Link](https://www.instructables.com/Squats-Counter-Using-TensorFlow-Lite-and-Tiny-Moti/)
+
+# [Hackster.io Link](https://www.hackster.io/Manasmw333/squats-counter-using-tensorflow-lite-and-tiny-motion-trainer-4d9dcf)
 > This Arduino BLE Sense based Squats counter can count number of Squats performed by an individual using the Accelerometer readings and TinyML based Machine learning model.
   
 # Demonstration
